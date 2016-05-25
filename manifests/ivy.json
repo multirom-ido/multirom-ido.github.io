@@ -20,8 +20,8 @@
 			"url": "https://dl.olivierk.eu/ivy/multirom/boot_kexec-ivy.img",
 			"version": "32.1.A.1.185",
 			"type": "kernel",
-			"size": 24907776,
-			"md5": "9c871d070dcd2d1831a24e538e42105d"
+			"size": 19443712,
+			"md5": "0ff673be78fd294277894e76784e16e7"
 		}, {
 			"url": "https://dl.srvr.tech/ivy/multirom/multirom_uninstaller.zip",
 			"version": "",
