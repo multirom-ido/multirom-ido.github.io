@@ -1,27 +1,27 @@
 {
 	"status": "ok",
-	"date": "2016-05-22",
+	"date": "2016-05-26",
 	"commands": "",
 	"gpg": false,
 	"devices": [{
 		"files": [{
-			"url": "https://dl.srvr.tech/ivy/multirom/multirom-20160522-v33x-UNOFFICIAL-ivy.zip",
+			"url": "https://dl.srvr.tech/ivy/multirom/multirom-20160526-v33x-UNOFFICIAL-ivy.zip",
 			"version": "33x",
 			"type": "multirom",
 			"size": 4450647,
 			"md5": "0c031c634788a8ec3e60394be744963f"
 		}, {
-			"url": "https://dl.srvr.tech/ivy/multirom/TWRP_multirom_20160522-00.img",
-			"version": "mrom20160522-00",
+			"url": "https://dl.srvr.tech/ivy/multirom/TWRP_multirom_20160526-00.img",
+			"version": "mrom20160526-00",
 			"type": "recovery",
-			"size": 19484672,
-			"md5": "7890734347d96a4f19cfd44244d1364b"
+			"size": 19488768,
+			"md5": "5bbbb2a5dbc3e6bd54b5f399fc416404"
 		}, {
 			"url": "https://dl.olivierk.eu/ivy/multirom/boot_kexec-ivy.img",
 			"version": "32.1.A.1.185",
 			"type": "kernel",
-			"size": 19443712,
-			"md5": "0ff673be78fd294277894e76784e16e7"
+			"size": 29200384,
+			"md5": "7be99bd8f4f9b4a0b692927197a22168"
 		}, {
 			"url": "https://dl.srvr.tech/ivy/multirom/multirom_uninstaller.zip",
 			"version": "",
