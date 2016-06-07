@@ -5,7 +5,7 @@
 	"gpg": false,
 	"devices": [{
 		"files": [{
-			"url": "https://dl.srvr.tech/ivy/multirom/multirom-20160606-v33x-UNOFFICIAL-ivy.zip",
+			"url": "https://dl.srvr.tech/ivy/multirom/multirom-20160607-v33x-UNOFFICIAL-ivy.zip",
 			"version": "33x",
 			"type": "multirom",
 			"size": 4450647,
