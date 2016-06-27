@@ -1,21 +1,21 @@
 {
 	"status": "ok",
-	"date": "2016-06-26",
+	"date": "2016-06-27",
 	"commands": "",
 	"gpg": false,
 	"devices": [{
 		"files": [{
-			"url": "https://dl.srvr.tech/ivy/multirom/multirom-20160626-v33x-UNOFFICIAL-ivy.zip",
+			"url": "https://dl.srvr.tech/ivy/multirom/multirom-20160627-v33x-UNOFFICIAL-ivy.zip",
 			"version": "33x",
 			"type": "multirom",
 			"size": 4449056,
 			"md5": "4f2f7230ab6584ed43d2d64a6eb4cc8f"
 		}, {
-			"url": "https://dl.srvr.tech/ivy/multirom/multirom-twrp-3.0.2-0_20160626-ivy.img",
-			"version": "mrom20160626-00",
+			"url": "https://dl.srvr.tech/ivy/multirom/multirom-twrp-3.0.2-0_20160627-ivy.img",
+			"version": "mrom20160627-00",
 			"type": "recovery",
 			"size": 18427904,
-			"md5": "a0689d90c8098ee8bd5e1307d4a9ee85"
+			"md5": "04bc448753dc7516a85269b655f282e4"
 		}, {
 			"url": "https://dl.olivierk.eu/ivy/multirom/boot_kexec-ivy.img",
 			"version": "32.1.A.1.185",
