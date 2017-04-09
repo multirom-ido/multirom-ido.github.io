@@ -1,0 +1,23 @@
+{
+	"status": "ok",
+	"date": "2017-04-10",
+	"commands": "",
+	"gpg": false,
+	"devices": [{
+		"files": [{
+			"url": "http://qc4.androidfilehost.com/dl/L2rMcVHMZigBnIMi1bnH0w/1491995323/817550096634760927/multirom-20170407-v33a-UNOFFICIAL-ido.zip",
+			"version": "33x",
+			"type": "multirom",
+			"size": 4057032,
+			"md5": "21018a31be3e45b5e920e0e44cb24b61"
+		}, {
+			"url": "http://qc4.androidfilehost.com/dl/UQFeXmRXEh5BGm2WBDVreQ/1491995498/745425885120723091/multirom-recovery.img",
+			"version": "3.1.0",
+			"type": "recovery",
+			"size": 16627712,
+			"md5": "fe1a9ac249171f4d9704de17de04026a"
+		}],
+		"changelogs": [],
+		"name": "ido"
+	}]
+}
